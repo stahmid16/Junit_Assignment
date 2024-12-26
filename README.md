@@ -28,6 +28,10 @@ Scrap the table daata from this page: https://dsebd.org/latest_share_price_scrol
 - Store the values in a text file
 ## Report
 ![scrap_report](https://github.com/user-attachments/assets/6e7c002f-a6d3-40d2-a7cb-baf710b592fb)
+## Output
+![output](https://github.com/user-attachments/assets/0bfd1884-8eb9-48d8-9a25-d4fb20359bdf)
+
+
 
   
 
